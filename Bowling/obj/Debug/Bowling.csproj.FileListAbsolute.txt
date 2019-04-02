@@ -1,0 +1,6 @@
+C:\Repos\Katas\Bowling\Bowling\bin\Debug\Bowling.dll
+C:\Repos\Katas\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Repos\Katas\Bowling\Bowling\obj\Debug\Bowling.csprojAssemblyReference.cache
+C:\Repos\Katas\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Repos\Katas\Bowling\Bowling\obj\Debug\Bowling.dll
+C:\Repos\Katas\Bowling\Bowling\obj\Debug\Bowling.pdb

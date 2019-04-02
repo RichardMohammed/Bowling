@@ -1,0 +1,10 @@
+C:\Repos\Katas\Bowling\Bowling.Client\bin\Debug\Bowling.Client.exe.config
+C:\Repos\Katas\Bowling\Bowling.Client\bin\Debug\Bowling.Client.exe
+C:\Repos\Katas\Bowling\Bowling.Client\bin\Debug\Bowling.Client.pdb
+C:\Repos\Katas\Bowling\Bowling.Client\bin\Debug\Bowling.dll
+C:\Repos\Katas\Bowling\Bowling.Client\bin\Debug\Bowling.pdb
+C:\Repos\Katas\Bowling\Bowling.Client\obj\Debug\Bowling.Client.csprojAssemblyReference.cache
+C:\Repos\Katas\Bowling\Bowling.Client\obj\Debug\Bowling.Client.csproj.CoreCompileInputs.cache
+C:\Repos\Katas\Bowling\Bowling.Client\obj\Debug\Bowling.Client.csproj.CopyComplete
+C:\Repos\Katas\Bowling\Bowling.Client\obj\Debug\Bowling.Client.exe
+C:\Repos\Katas\Bowling\Bowling.Client\obj\Debug\Bowling.Client.pdb

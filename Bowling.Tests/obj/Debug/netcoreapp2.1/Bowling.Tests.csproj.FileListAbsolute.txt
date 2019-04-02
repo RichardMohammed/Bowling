@@ -1,0 +1,17 @@
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.Tests.deps.json
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.Tests.runtimeconfig.json
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.Tests.runtimeconfig.dev.json
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.Tests.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.Tests.pdb
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.csprojAssemblyReference.cache
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.csproj.CoreCompileInputs.cache
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.AssemblyInfoInputs.cache
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.AssemblyInfo.cs
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.pdb
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.dll
+C:\Repos\Katas\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.1\Bowling.pdb
+C:\Repos\Katas\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.1\Bowling.Tests.csproj.CopyComplete
